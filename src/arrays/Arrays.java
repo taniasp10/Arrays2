@@ -41,4 +41,8 @@ public class Arrays {
         }
     }
     
+    public void visualizar(){
+        
+    }
+    
 }
